@@ -1,0 +1,6 @@
+Predator 250, Predator 180, Herbivore 60, 
+Grass true, Grass false, 
+
+Herbivore 520, Herbivore 60, 
+Grass false, Tree false, 
+
